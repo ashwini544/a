@@ -1,6 +1,15 @@
 {
   "name" : "myabc",
   "start_url":"/form.html",
-  "icons": [{name:},{}],
+  "icons": [
+  {
+    "src": "IMG-20250405-wa000.jpg",
+    "sizes": "192x192"
+  },
+  {
+    "src":  "Screenshot_20230701-012142.jpg",
+    "sizes": "512x512"
+  }
+],
   "display": "standalone"
 }
