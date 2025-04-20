@@ -1,0 +1,6 @@
+{
+  "name" : "myabc",
+  "start_url":"/form.html",
+  "icons": [{name:},{}],
+  "display": "standalone"
+}
